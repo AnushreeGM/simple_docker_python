@@ -20,8 +20,8 @@ Make sure the following are installed:
 ### 🔧 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/python-jenkins-docker-sample.git
-cd python-jenkins-docker-sample
+git clone https://github.com/your-username/simple_docker_python.git
+cd simple_docker_python
 ```
 
 ---
