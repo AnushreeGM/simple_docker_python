@@ -20,7 +20,7 @@ Make sure the following are installed:
 ### 🔧 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/simple_docker_python.git
+git clone https://github.com/AnushreeGM/simple_docker_python.git
 cd simple_docker_python
 ```
 
